@@ -1,0 +1,15 @@
+C:\Users\steve\Projects\HelloWorld-VS-Code\bin\Debug\net7.0\HelloWorld-VS-Code.exe
+C:\Users\steve\Projects\HelloWorld-VS-Code\bin\Debug\net7.0\HelloWorld-VS-Code.deps.json
+C:\Users\steve\Projects\HelloWorld-VS-Code\bin\Debug\net7.0\HelloWorld-VS-Code.runtimeconfig.json
+C:\Users\steve\Projects\HelloWorld-VS-Code\bin\Debug\net7.0\HelloWorld-VS-Code.dll
+C:\Users\steve\Projects\HelloWorld-VS-Code\bin\Debug\net7.0\HelloWorld-VS-Code.pdb
+C:\Users\steve\Projects\HelloWorld-VS-Code\obj\Debug\net7.0\HelloWorld-VS-Code.csproj.AssemblyReference.cache
+C:\Users\steve\Projects\HelloWorld-VS-Code\obj\Debug\net7.0\HelloWorld-VS-Code.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\steve\Projects\HelloWorld-VS-Code\obj\Debug\net7.0\HelloWorld-VS-Code.AssemblyInfoInputs.cache
+C:\Users\steve\Projects\HelloWorld-VS-Code\obj\Debug\net7.0\HelloWorld-VS-Code.AssemblyInfo.cs
+C:\Users\steve\Projects\HelloWorld-VS-Code\obj\Debug\net7.0\HelloWorld-VS-Code.csproj.CoreCompileInputs.cache
+C:\Users\steve\Projects\HelloWorld-VS-Code\obj\Debug\net7.0\HelloWorld-VS-Code.dll
+C:\Users\steve\Projects\HelloWorld-VS-Code\obj\Debug\net7.0\refint\HelloWorld-VS-Code.dll
+C:\Users\steve\Projects\HelloWorld-VS-Code\obj\Debug\net7.0\HelloWorld-VS-Code.pdb
+C:\Users\steve\Projects\HelloWorld-VS-Code\obj\Debug\net7.0\HelloWorld-VS-Code.genruntimeconfig.cache
+C:\Users\steve\Projects\HelloWorld-VS-Code\obj\Debug\net7.0\ref\HelloWorld-VS-Code.dll
